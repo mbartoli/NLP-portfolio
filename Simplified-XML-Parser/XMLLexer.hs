@@ -1,5 +1,4 @@
 -- Michael Bartoli
--- cs131 midterm 
 
 module XMLLexer where
 
