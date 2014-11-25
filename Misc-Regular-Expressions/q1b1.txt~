@@ -1,0 +1,2 @@
+ grep "\(^RT @[0-9a-zA-Z]*:* *\)\|\(.rt @[0-9a-zA-Z]\)\|\(Reweet:* *@[0-9a-zA-Z]*:* *\)" twitter.posts | wc -l
+
