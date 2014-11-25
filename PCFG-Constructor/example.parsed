@@ -1,0 +1,4 @@
+(S (NP (NNP John)) (VP (VB likes) (NP (NNP Mary))) (. .))
+(S (NP (NNP Mary)) (VP (VB codes) (PP (IN with) (NP (NNP John)))) (. .))
+(S (NP (NNP Mary)) (VP (VB codes) (PP (IN on) (NP (DT a) (RB very) (JJ giant) (NN laptop)))) (. .))
+(S (VP (VB Write) (NP (JJ giant) (NNS programs))) (. .))

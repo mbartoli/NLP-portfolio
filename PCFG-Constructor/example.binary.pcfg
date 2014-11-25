@@ -1,0 +1,24 @@
+JJ -> * giant		1.0
+NNS -> * programs		1.0
+VB -> * likes		0.25
+VB -> * Write		0.25
+VB -> * codes		0.5
+IN -> * with		0.5
+IN -> * on		0.5
+NNP -> * Mary		0.6
+NNP -> * John		0.4
+NP -> JJ NNS		0.14285714285714285
+X1 -> DT RB		1.0
+X2 -> X1 JJ		1.0
+NP -> X2 NN		0.14285714285714285
+NP -> NNP		0.7142857142857143
+X3 -> NP VP		1.0
+S -> X3 .		0.75
+S -> VP .		0.25
+NN -> * laptop		1.0
+RB -> * very		1.0
+VP -> VB NP		0.5
+VP -> VB PP		0.5
+DT -> * a		1.0
+PP -> IN NP		1.0
+. -> * .		1.0
